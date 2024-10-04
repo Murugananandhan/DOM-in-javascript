@@ -1,0 +1,15 @@
+body {
+      transition: background-color 0.5s;
+    }
+    .button {
+      padding: 10px 20px;
+      margin: 5px;
+      border: 1px solid #000;
+      cursor: pointer;
+    }
+    .reset-btn {
+      background-color: none;
+    }
+    .default-btn {
+      background-color: white;
+    }
